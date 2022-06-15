@@ -19,4 +19,4 @@ You need ``EasyAI`` and ``numphy`` installed, run this in your terminal to insta
 
 Running the file
 ----------------
-This project only consists of a single .py file, all you need to execute is to run the p1sbarry20202.py file
+This project only consists of a single .py file, all you need to execute is to run the p1sbarry2020.py file
